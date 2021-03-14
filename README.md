@@ -5,7 +5,7 @@
 
 **I'm a slacking undergraduate**
 
-exposing to the amazing world there, funny and cool, but lack of persistence to keep on.  ❤️
+exposing to the amazing world here, funny and cool, but lack of persistence to keep on.  ❤️
 
 仰望星空，脚踏实地。✨
 
