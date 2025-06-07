@@ -6,7 +6,7 @@
 
 **I'm Luca Lau and**
 
-**I'm a slacking undergraduate**
+**I'm so confused about the future**
 
 exposing to the amazing world here, funny and cool, but lack of persistence to keep on.  ❤️
 
@@ -20,6 +20,7 @@ exposing to the amazing world here, funny and cool, but lack of persistence to k
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxin&layout=compact&langs_count=6&theme=midnight-purple" />
 </a>
+
 ------
 
 ![](https://count.getloli.com/get/@:github.lucaxin.readme?theme=gelbooru)
